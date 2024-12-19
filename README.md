@@ -1,16 +1,10 @@
 # supabaselearning
+## Flutter login using Supabase
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/5781b134-6e79-4ed4-953f-07a045889cc4)
+##
+<img width="727" alt="image" src="https://github.com/user-attachments/assets/c0244285-c483-4f67-b62d-c45f4986a7fb" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
